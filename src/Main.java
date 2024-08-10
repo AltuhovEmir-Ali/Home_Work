@@ -7,7 +7,7 @@ public class Main  {
     public static void main(String[] args) {
         List<Course> courses = new ArrayList<>();
         courses.add(new ProgrammingCourse("Жава Программист", 40, "Alice"));
-        courses.add(new DesignCourse("Графический Дизайнер", 30, "Bob"));
+        courses.add(new DesignCourse("Графический ДизайнерР", 30, "Bob"));
         courses.add(new MathCourse("Матиматика", 50, "Emir"));
         courses.add(new LanguageCourse("Англиский язык", 20, "Diana"));
 
